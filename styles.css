@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+.calculator {
+  display: inline-block;
+  border: black solid 1px;
+}
+
+input {
+  width: 100%;
+}
+
+button {
+  width: 40px;
+  height: 40px;
+}
